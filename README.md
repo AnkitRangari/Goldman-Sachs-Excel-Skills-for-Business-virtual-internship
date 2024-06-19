@@ -5,9 +5,9 @@ The program was meticulously structured to enhance my Excel proficiency, focusin
 
 ## Task: 
 1) Basic excel skills 
-2) Forecast assumption
-3) P&L Forecast
-4) Monitering cash flow
-5) Chart outputs
+2) Forecast operating assumption
+3) Translating	Assumptions	to	the	P&L
+4) Forecasting	Cash	Flows
+5) Creating	Outputs	in	Excel
 
 
